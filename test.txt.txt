@@ -1,0 +1,4 @@
+Als dit het geval is, open/ save dan al je bestanden vanaf/ naar de "Onedrive - BESIX" folder - zie foto hieronder.
+
+Anders kan je op de oude locatie (c:\users\[Uw Gebruiker]\OneDrive - Agidens ... ) even zoeken naar de bestanden waar je afgelopen 2 dagen aan hebt gewerkt en enkel die paar bestanden even kopiëren naar "Onedrive - BESIX".
+We zullen dit aanpassen via automatische policies zodat dit tegen einde van de week in orde komt, zodat je ook gewoon via de bovenstaande folders verder kan werken
